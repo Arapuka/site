@@ -53,7 +53,7 @@ def status():
             mensagem_status = app.config['mensagem_status']
             return mensagem_status                                 # se chegar aqui, a mensagem é "ON"
         else:
-            return 'Status OFF'
+            return '<p>OFF</p>'
     
     elif request.method == "POST":
         mensagem_status = request.data.decode('utf-8')             # Obtém a mensagem_resposta do corpo (se for html) da requisição
