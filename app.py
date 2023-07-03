@@ -11,7 +11,7 @@ def homepage():
         </head>
         <body>   
             <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-            <center><h1>Bem vido ao Arapuka móvel</h1></center>
+            <center><h1>Bem vindo ao Arapuka móvel</h1></center>
             <br/><br/><br/><br/><br/><br/><br/><br/><br/>
             <center><p>Trabalho de conclusão de curso</p></center>
         </body>
